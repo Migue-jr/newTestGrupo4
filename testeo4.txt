@@ -1,0 +1,6 @@
+"Hola soy el administrador"
+
+"Hola soy un colaborador de la rama emgm001"
+
+"Hola soy una colaboradora del archivo testGroup4"
+"Esta vez lo lograremos c: "
